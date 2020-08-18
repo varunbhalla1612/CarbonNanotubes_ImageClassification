@@ -29,6 +29,7 @@ Carbon nanotubes forest are Carbon nanotubes which form vertically oriented cell
   <b>Methodologies Used: </b>
   
   Part A
+  
                           Image Processing (using OpenCV Python)
 
                                           - Hough Circles
@@ -40,9 +41,10 @@ Carbon nanotubes forest are Carbon nanotubes which form vertically oriented cell
                                           - Gaussian Gradient
 
 Part B
-                           Machine Learning & Analytics
+   
+			Machine Learning & Analytics
 
-                                    - Support Vector Machine Regressors
+                                    - Support Vector Machine Regressors 
 
 
          
