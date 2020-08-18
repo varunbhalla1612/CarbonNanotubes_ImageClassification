@@ -17,15 +17,17 @@ Carbon nanotubes forest are Carbon nanotubes which form vertically oriented cell
   Determine the best set of process parameters which result in the most effective production of carbon nanotubes
      
   <b>Methodologies Used: </b>
-  Part A           Image Processing (using OpenCV Python)
-                   - Hough Circles
-                   - MinEnclosing
-                   - Contour Detection-
-                   - Gaussian Gradient
+  
+  Part A
+                          Image Processing (using OpenCV Python)
+                                           - Hough Circles
+                                           - MinEnclosing
+                                           - Contour Detection-
+                                           - Gaussian Gradient
   Part B
-                  Machine Learning & Analytics
-                    - Support Vector Machine Regressors
-         
+                           Machine Learning & Analytics
+                                - Support Vector Machine Regressors
+
          
    |ExpNum| ParticleVsFibreProportion(PartA) | Catalyst Concentration | Growth Temp | FeedFlow Rate | ... |
    | --- | --- | --- | --- | --- | --- |
