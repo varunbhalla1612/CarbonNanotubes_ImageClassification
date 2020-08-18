@@ -1,6 +1,7 @@
 # CarbonNanotubes_ImageClassification
 <b>Background:</b>
 Carbon nanotubes forest are Carbon nanotubes which form vertically oriented cellular arrays during their growth.
+<img src="cnt.bmp" width="250">
 
 
 <b>How are CNTs formed?</b>
@@ -22,6 +23,7 @@ Carbon nanotubes forest are Carbon nanotubes which form vertically oriented cell
   <b>Problem Statement:</b>
   Determine the best set of process parameters which result in the most effective production of carbon nanotubes
      
+
   <b>Methodologies Used: </b>
   
   Part A
