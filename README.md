@@ -52,3 +52,13 @@ Part B
   Experiment_2|
   Experiment_3|
   Experiment_4|
+
+
+Output:
+Correlation analysis showed how particulate area depends on various experimental parameters(growth temp, carrier gas flow, catalyst concentration and feed flow rate) of CNT synthesis
+
+To Decrease Particulates (Impurities)
+		○ Increase catalyst concentration
+		○ Increase Growth temp
+		○ Decrease feed flow rate
+		○ Increase Carrier Gas Flow
