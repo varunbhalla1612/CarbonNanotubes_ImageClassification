@@ -20,16 +20,23 @@ Carbon nanotubes forest are Carbon nanotubes which form vertically oriented cell
   
   Part A
                           Image Processing (using OpenCV Python)
-                                           - Hough Circles
-                                           - MinEnclosing
-                                           - Contour Detection-
-                                           - Gaussian Gradient
-  Part B
+
+                                          - Hough Circles
+
+                                          - MinEnclosing
+
+                                          - Contour Detection-
+
+                                          - Gaussian Gradient
+
+Part B
                            Machine Learning & Analytics
-                                - Support Vector Machine Regressors
+
+                                    - Support Vector Machine Regressors
+
 
          
-   |ExpNum| ParticleVsFibreProportion(PartA) | Catalyst Concentration | Growth Temp | FeedFlow Rate | ... |
+   |ExpNum| ParticleVsFibreProportion(PartA) - SVM Output | Catalyst Concentration | Growth Temp | FeedFlow Rate | ... |
    | --- | --- | --- | --- | --- | --- |
   Experiment_1|
   Experiment_2|
