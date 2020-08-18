@@ -5,11 +5,17 @@ Carbon nanotubes forest are Carbon nanotubes which form vertically oriented cell
 
 <b>How are CNTs formed?</b>
 - Catalyzed Chemical Vapor Deposition (catalyzed chemical vapor deposition of hydrocarbons over a metal catalyst )
-- Different Process Parameteres
+
+- Under Different Process Parameteres
+      
       - Catalyst Concentration
+      
       - Growth Temperature
+      
       - Feed flow Rate
+      
       - Carrier Gas Flow etc
+      
  - CNTs & some impurities are formed after the process.
  
  
