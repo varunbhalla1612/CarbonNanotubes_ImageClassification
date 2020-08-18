@@ -1,6 +1,8 @@
 # CarbonNanotubes_ImageClassification
 <b>Background:</b>
 Carbon nanotubes forest are Carbon nanotubes which form vertically oriented cellular arrays during their growth.
+
+
 <img src="cnt.bmp" width="250">
 
 
